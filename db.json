@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "My First Stream",
+      "description": "This is my first stream ",
+      "id": 1
+    },
+    {
+      "title": "Fifa 2020 stream",
+      "description": "Playing Div1 in Fifa ",
+      "id": 2
+    }
+  ]
+}
